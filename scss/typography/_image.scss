@@ -1,0 +1,26 @@
+img {
+  border-style: none;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+img.zx-fluid {
+  height: auto;
+  max-width: 100%;
+}
+
+img.zx-align-left {
+  float: left;
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+}
+
+img.zx-align-right {
+  float: right;
+  margin-bottom: 2rem;
+  margin-left: 2rem;
+}
+
+img.zx-circle {
+  border-radius: 50% !important;
+}

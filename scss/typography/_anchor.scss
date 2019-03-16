@@ -1,0 +1,10 @@
+a {
+  @include zx-transition(.2s linear);
+
+  color: #f26444;
+  text-decoration: none;
+}
+
+a.zx-link-text {
+  color: #4d5259;
+}

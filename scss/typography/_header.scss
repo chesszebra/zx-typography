@@ -1,0 +1,55 @@
+h1, h2, h3, h4, h5, h6 {
+  color: #313944;
+  font-weight: 300;
+  letter-spacing: .5px;
+  line-height: 1.5;
+  margin-bottom: .5rem;
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 33px;
+
+  small,
+  .zx-header-subtitle {
+    font-size: 28px;
+  }
+}
+
+h2 {
+  font-size: 28px;
+
+  small, .zx-header-subtitle {
+    font-size: 23px;
+  }
+}
+
+h3 {
+  font-size: 23px;
+
+  small,
+  .zx-header-subtitle {
+    font-size: 18px;
+  }
+}
+
+h4 {
+  font-size: 19px;
+
+  small,
+  .zx-header-subtitle {
+    font-size: 15px;
+  }
+}
+
+h5 {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+h6 {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+

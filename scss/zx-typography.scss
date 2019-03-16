@@ -1,0 +1,27 @@
+@import "mixins/font-smooth";
+@import "mixins/user-select";
+
+@import "typography/body";
+@import "typography/selection";
+@import "typography/icons";
+@import "typography/header";
+@import "typography/paragraph";
+@import "typography/anchor";
+@import "typography/code";
+@import "typography/horizontal-line";
+@import "typography/image";
+
+.zx-fs-20 {
+  font-size: 20px !important;
+  line-height: 1.2;
+}
+
+.zx-fs-30 {
+  font-size: 30px !important;
+  line-height: 1.2;
+}
+
+.zx-fs-40 {
+  font-size: 40px !important;
+  line-height: 1.2;
+}

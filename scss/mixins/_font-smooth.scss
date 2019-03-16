@@ -1,0 +1,7 @@
+/// A mixin that sets the font smoothing in a browser independent way.
+/// @param {string} $type The type of smoothing to set.
+@mixin zx-font-smooth($type: auto) {
+  -webkit-font-smoothing: $type;
+  -moz-osx-font-smoothing: $type;
+  font-smooth: $type;
+}
